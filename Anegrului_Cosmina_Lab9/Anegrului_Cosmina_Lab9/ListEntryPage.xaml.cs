@@ -28,6 +28,7 @@ namespace Anegrului_Cosmina_Lab9
             {
                 BindingContext = new ShopList()
             });
+            //comentariu
         }
         async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
